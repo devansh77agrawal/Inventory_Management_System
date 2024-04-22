@@ -1,0 +1,47 @@
+Test Case 1: Adding Products
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+    - Product ID: 3, Name: Headphones, Quantity: 20, Price: 50
+    - Product ID: 4, Name: Mouse, Quantity: 15, Price: 20
+    - Product ID: 5, Name: Keyboard, Quantity: 10, Price: 30
+2. Display Inventory
+
+Test Case 2: Displaying Inventory
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+2. Display Inventory
+
+Test Case 3: Deleting Products
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+2. Delete Product (ID: 2)
+3. Display Inventory
+
+Test Case 4: Modifying Products
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+2. Modify Product (ID: 2)
+    - New Name: Tablet, New Quantity: 8, New Price: 400
+3. Display Inventory
+
+Test Case 5: Generating Receipt
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+    - Product ID: 3, Name: Headphones, Quantity: 20, Price: 50
+2. Generate Receipt
+
+Test Case 6: Invalid Input
+1. Enter invalid choice (e.g., 'x')
+2. Enter choice outside valid range (e.g., '7')
+3. Display Inventory
+
+Test Case 7: Exiting Program
+1. Add Product:
+    - Product ID: 1, Name: Laptop, Quantity: 5, Price: 800
+    - Product ID: 2, Name: Smartphone, Quantity: 10, Price: 500
+2. Choose Exit
